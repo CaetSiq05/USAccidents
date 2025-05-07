@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int n;
+    int k;
 
     cout << "Digite um numero inteiro de 1 a 10:\n";
-    cin >> n;
-    cout << "O numero que voce digitou: "<< n;
+    cin >> k;
+    cout << "O numero que voce digitou: "<< k;
 }
